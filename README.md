@@ -2,7 +2,7 @@
 SpamDetectorAI is a tool for detecting spam words in emails or text messages.
 Here is a tutorial:
 ```
-from SpamDetectorAI import spamdetector
+from SpamDetectorAI import spamfilter as spamdetector
 #Create a filter
 spamfilter = spamdetector.SpamFilter()
 #Report a spam message
